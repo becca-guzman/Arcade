@@ -2,26 +2,35 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//CHANGE ME: Super Mario Bros
+//CHANGE ME: Becca Guzman
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (mario needs to go down a tunnel) {
+    //jump on the tunnel and press the down arrow;
 } else {
-    //Add event below
-}
+    if (Mario doesn't need to go down a tunnel)
+}   //continue on the main course;
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (Mario needs to jump) {
+    //press down the "B" button;
 } else {
-    //Add event below
-}
+    if (Mario needs to do a double jump)
+}   //double click "B"
+} else {
+    if (Mario needs to do a jump fall)
+}   //combine pressing the down button and "B";
+} else {
+    if (Mario doesn't need to jump)
+}   //continue on the main course;
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (Mario has to fight a villian) {
+    //press "A" to throw a punch;
 } else {
-    //Add event below
-}
+    if (Mario needs to dodge)
+}    //press "B" to jump or double press to double jump;
+} else {
+    if (Mario needs to dodge)
+}   //press the down arrow button to squat;
 
 
